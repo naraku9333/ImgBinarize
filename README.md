@@ -9,6 +9,7 @@ This project depends on [Cluster](https://github.com/naraku9333/Cluster) which d
 Build Cluster into a jar archive and add to classpath when building ImgBinarize.
 
 Test images are in the images/ directory.
+
 **NOTE:** I am not the creator, owner or copyright holder of any images. They are for testing purposes only.
 
 This is my first foray into the JavaFX world. This project was written for academic purposes.
